@@ -44,6 +44,9 @@ agent 能否完成人类调查记者数周的工作？
 | 2026-06 | 宁德时代动力/储能电池（上市链主 × 高研发制造） | [reports/2026-06-catl-battery.md](reports/2026-06-catl-battery.md) |
 | 2026-06 | SK hynix HBM/存储芯片（高薪血汗 × 强工会利润分享） | [reports/2026-06-sk-hynix-hbm.md](reports/2026-06-sk-hynix-hbm.md) |
 | 2026-06 | NVIDIA AI GPU / Blackwell（无厂链主 × 代理薪酬口径） | [reports/2026-06-nvidia-ai-gpu.md](reports/2026-06-nvidia-ai-gpu.md) |
+| 2026-06 | 腾讯微信/游戏/云/AI 平台（完整薪酬口径 × 高薪本部） | [reports/2026-06-tencent-wechat-platform.md](reports/2026-06-tencent-wechat-platform.md) |
+| 2026-06 | 淘宝/天猫 + 阿里云（薪酬总额缺口 × 出表边界变化） | [reports/2026-06-alibaba-taobao-platform.md](reports/2026-06-alibaba-taobao-platform.md) |
+| 2026-06 | 抖音/TikTok（私企估算 × AI 账单与抢人激励） | [reports/2026-06-bytedance-douyin-platform.md](reports/2026-06-bytedance-douyin-platform.md) |
 
 ### 专题对比
 
