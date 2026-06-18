@@ -42,12 +42,14 @@ agent 能否完成人类调查记者数周的工作？
 | 2026-06 | 永辉"咏悦汇小酌"酱香酒（转型中间态） | [reports/2026-06-yonghui-yongyuehui.md](reports/2026-06-yonghui-yongyuehui.md) |
 | 2026-06 | 蔡司眼镜镜片（基金会企业 × 跨法域镜像） | [reports/2026-06-zeiss-lenses.md](reports/2026-06-zeiss-lenses.md) |
 | 2026-06 | 宁德时代动力/储能电池（上市链主 × 高研发制造） | [reports/2026-06-catl-battery.md](reports/2026-06-catl-battery.md) |
+| 2026-06 | SK hynix HBM/存储芯片（高薪血汗 × 强工会利润分享） | [reports/2026-06-sk-hynix-hbm.md](reports/2026-06-sk-hynix-hbm.md) |
 
 ### 专题对比
 
 | 主题 | 文档 |
 |---|---|
 | 永辉 × 胖东来：学生与老师的分配账本 | [reports/2026-06-compare-yonghui-pdl.md](reports/2026-06-compare-yonghui-pdl.md) |
+| 劳资分配排行榜：资本拿得比劳动多多少 | [reports/2026-06-labor-capital-ranking.md](reports/2026-06-labor-capital-ranking.md) |
 
 ## 跨案例指标
 
