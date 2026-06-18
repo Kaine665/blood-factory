@@ -49,14 +49,14 @@ agent 能否完成人类调查记者数周的工作？
 
 | 主题 | 文档 |
 |---|---|
-| 永辉 × 胖东来：学生与老师的分配账本 | [reports/2026-06-compare-yonghui-pdl.md](reports/2026-06-compare-yonghui-pdl.md) |
-| 劳资分配排行榜：资本拿得比劳动多多少 | [reports/2026-06-labor-capital-ranking.md](reports/2026-06-labor-capital-ranking.md) |
-| 员工人均收入排行榜（人民币口径） | [reports/2026-06-employee-income-ranking.md](reports/2026-06-employee-income-ranking.md) |
+| 永辉 × 胖东来：学生与老师的分配账本 | [reports/cross-company/2026-06-compare-yonghui-pdl.md](reports/cross-company/2026-06-compare-yonghui-pdl.md) |
+| 劳资分配排行榜：资本拿得比劳动多多少 | [reports/cross-company/2026-06-labor-capital-ranking.md](reports/cross-company/2026-06-labor-capital-ranking.md) |
+| 员工人均收入排行榜（人民币口径） | [reports/cross-company/2026-06-employee-income-ranking.md](reports/cross-company/2026-06-employee-income-ranking.md) |
 
 ## 跨案例指标
 
 单篇报告讲故事，跨案例指标沉淀数据资产。每个案例完成后回填一行到
-[reports/cross-metrics.md](reports/cross-metrics.md)（血汗指标体系 v0.1）：
+[reports/cross-company/cross-metrics.md](reports/cross-company/cross-metrics.md)（血汗指标体系 v0.1）：
 
 - **A 分配类**：劳资分配比（净利润÷全员薪酬）、人均创利 vs 人均薪酬、薪酬阶梯倍数、单品劳/资含量
 - **B 边界类**：报表外劳动者规模、ESG 承诺覆盖率
