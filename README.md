@@ -43,6 +43,7 @@ agent 能否完成人类调查记者数周的工作？
 | 2026-06 | 蔡司眼镜镜片（基金会企业 × 跨法域镜像） | [reports/2026-06-zeiss-lenses.md](reports/2026-06-zeiss-lenses.md) |
 | 2026-06 | 宁德时代动力/储能电池（上市链主 × 高研发制造） | [reports/2026-06-catl-battery.md](reports/2026-06-catl-battery.md) |
 | 2026-06 | SK hynix HBM/存储芯片（高薪血汗 × 强工会利润分享） | [reports/2026-06-sk-hynix-hbm.md](reports/2026-06-sk-hynix-hbm.md) |
+| 2026-06 | NVIDIA AI GPU / Blackwell（无厂链主 × 代理薪酬口径） | [reports/2026-06-nvidia-ai-gpu.md](reports/2026-06-nvidia-ai-gpu.md) |
 
 ### 专题对比
 
