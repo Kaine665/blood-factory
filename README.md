@@ -50,6 +50,7 @@ agent 能否完成人类调查记者数周的工作？
 |---|---|
 | 永辉 × 胖东来：学生与老师的分配账本 | [reports/2026-06-compare-yonghui-pdl.md](reports/2026-06-compare-yonghui-pdl.md) |
 | 劳资分配排行榜：资本拿得比劳动多多少 | [reports/2026-06-labor-capital-ranking.md](reports/2026-06-labor-capital-ranking.md) |
+| 员工人均收入排行榜（人民币口径） | [reports/2026-06-employee-income-ranking.md](reports/2026-06-employee-income-ranking.md) |
 
 ## 跨案例指标
 
