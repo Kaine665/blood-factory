@@ -41,6 +41,7 @@ agent 能否完成人类调查记者数周的工作？
 | 2026-06 | 胖东来"自由·爱"白酒（⚠️ 对照组） | [reports/2026-06-pdl-ziyouai.md](reports/2026-06-pdl-ziyouai.md) |
 | 2026-06 | 永辉"咏悦汇小酌"酱香酒（转型中间态） | [reports/2026-06-yonghui-yongyuehui.md](reports/2026-06-yonghui-yongyuehui.md) |
 | 2026-06 | 蔡司眼镜镜片（基金会企业 × 跨法域镜像） | [reports/2026-06-zeiss-lenses.md](reports/2026-06-zeiss-lenses.md) |
+| 2026-06 | 宁德时代动力/储能电池（上市链主 × 高研发制造） | [reports/2026-06-catl-battery.md](reports/2026-06-catl-battery.md) |
 
 ### 专题对比
 
