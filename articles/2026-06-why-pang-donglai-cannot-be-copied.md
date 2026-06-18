@@ -90,4 +90,4 @@
 
 ---
 
-*本文基于 [血汗 Agent](../README.md) 项目对永辉超市、胖东来的调查材料整理而成，为分析性文章，非单品调查报告。相关底稿见 [永辉案例](../reports/2026-06-yonghui-yongyuehui.md)、[胖东来案例](../reports/2026-06-pdl-ziyouai.md)、[永辉×胖东来对比](../reports/2026-06-compare-yonghui-pdl.md)。*
+*本文基于 [血汗 Agent](../README.md) 项目对永辉超市、胖东来的调查材料整理而成，为分析性文章，非单品调查报告。相关底稿见 [永辉案例](../reports/2026-06-yonghui-yongyuehui.md)、[胖东来案例](../reports/2026-06-pdl-ziyouai.md)、[永辉×胖东来对比](../reports/cross-company/2026-06-compare-yonghui-pdl.md)。*

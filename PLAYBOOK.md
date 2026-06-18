@@ -181,7 +181,7 @@
 
 ## 6. 跨案例指标回填（血汗指标体系）
 
-每个案例完成后，向 `cross-metrics.md` 回填五类指标。复刻者可直接复用该文件的表结构作为 schema：
+每个案例完成后，向 `reports/cross-company/cross-metrics.md` 回填五类指标。复刻者可直接复用该文件的表结构作为 schema：
 
 - **A 分配类**：劳资分配比（净利润÷全员薪酬）、人均创利 vs 人均薪酬、薪酬阶梯倍数、单品劳/资含量
 - **B 边界类**：报表外劳动者规模（边界外/内比）、ESG 承诺覆盖率
@@ -259,7 +259,7 @@
 □ 选第一个产品（用的人多、链路有代表性、最好是上市公司——信源全，先建立手感）
 □ 按第 2 节七步流程跑
 □ 写报告（第 4 节模板），每个数字挂置信度
-□ 回填 cross-metrics（第 6 节 schema）
+□ 回填 reports/cross-company/cross-metrics.md（第 6 节 schema）
 □ 复盘：本案例发现了什么新信源/新范式/新坑 → 回写本手册
 ```
 
@@ -267,4 +267,4 @@
 
 ---
 
-*底稿案例：[蜜雪冰城](reports/2026-06-mixue-lemonade.md) ｜ [福耀玻璃](reports/2026-06-fuyao-modely.md) ｜ [胖东来](reports/2026-06-pdl-ziyouai.md) ｜ [永辉](reports/2026-06-yonghui-yongyuehui.md) ｜ [蔡司](reports/2026-06-zeiss-lenses.md) ｜ 指标库：[cross-metrics.md](reports/cross-metrics.md)*
+*底稿案例：[蜜雪冰城](reports/2026-06-mixue-lemonade.md) ｜ [福耀玻璃](reports/2026-06-fuyao-modely.md) ｜ [胖东来](reports/2026-06-pdl-ziyouai.md) ｜ [永辉](reports/2026-06-yonghui-yongyuehui.md) ｜ [蔡司](reports/2026-06-zeiss-lenses.md) ｜ 指标库：[cross-metrics.md](reports/cross-company/cross-metrics.md)*
